@@ -1,9 +1,9 @@
 
 h1.nodice{
 
-	visibility: hidden;
+	visibility: visible;
 }
 h1.dice{
 
-	visibility: visible;
+	visibility: hidden;
 }
