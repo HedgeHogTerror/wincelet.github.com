@@ -1,0 +1,32 @@
+
+
+body
+{
+
+	background-image:url("assets/omfgdogs.gif");
+	background-repeat:repeat;
+}
+
+a:visited{
+	color:green;
+	font-family: 'comic sans' Comic Sans, Comic Sans MS;
+	
+}
+
+.link
+{
+
+	color:green;
+	font-family: 'comic sans' Comic Sans, Comic Sans MS;
+	font-size: 40px;
+	position:absolute;
+    bottom:0;
+    right:0;
+}
+
+embed
+{
+
+	visibility:hidden;
+
+}
