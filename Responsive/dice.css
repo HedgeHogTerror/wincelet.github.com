@@ -1,7 +1,7 @@
 
 h1.nodice{
-	visibility:hidden;
-}
-h2.dice{
 	visibility: visible;
+}
+h1.dice{
+	visibility: hidden;
 }
