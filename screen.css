@@ -1,10 +1,9 @@
 
 h1{
+	text-align: center;
 	font-family: Impact, Charcoal, sans-serif;
 	src: url("NovaSquare.ttf") format('truetype');
-	font-size: 50px;
-	display: block;	
-	padding: 0px 100% 0px 100px;
+	
 }
 
 h1.Resumetitle{
@@ -34,11 +33,12 @@ h2.size1{
 }
 
 p.bio{
+	font-size: 20px;
 	text-indent: 20px;
 	color: #EEEEEE;
 	max-width: 500px;
 	display: block;
-	padding: 0px 0px 25px 100px;
+	padding: 10px 0px 25px 400px;
 
 }
 
@@ -68,12 +68,19 @@ h3.category{
 
 }
 
+img.propic{
+position: fixed;
+top: 120px;
+left: 0px;
+max-width: 500px;
+max-height: 1000px;
+}
 .rbutton {
 
 
 	display: block;	
 	max-width:80px;
-	margin: 10px 50px 10px 900px;
+	margin: 20px 50px 10px 900px;
 
 		   border-top: 1px solid #96d1f8;
 		   background: #65d6d6;
@@ -111,7 +118,7 @@ h3.category{
 
 	display: block;	
 	max-width: 80px;
-	margin: 50px 50px 10px 900px;
+	margin: 400px 50px 10px 900px;
 
 
 			   border-top: 1px solid #96d1f8;
