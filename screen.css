@@ -153,6 +153,7 @@ max-height: 1000px;
 				   }
 
 body{
+	background-size: 1920px 1200px;
 	background-image:url("Portfoliowallpaper.jpg");
 	background-repeat:repeat;
 }
