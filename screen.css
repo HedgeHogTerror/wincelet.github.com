@@ -90,7 +90,7 @@ max-height: 1000px;
 		   background: -ms-linear-gradient(top, #3e9c7d, #65d6d6);
 		   background: -o-linear-gradient(top, #3e9c7d, #65d6d6);
 		   padding: 12.5px 25px;
-		   -webkit-border-radius: 21px;
+		   -webkit-border-radius: 21px; 
 		   -moz-border-radius: 21px;
 		   border-radius: 21px;
 		   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;

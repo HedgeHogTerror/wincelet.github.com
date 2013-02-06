@@ -21,6 +21,7 @@ h2{
 	max-width: 500px;
 	display: block;
 	padding: 0px 0px 0px 20px;
+	font-size: 20px;
 
 }
 
@@ -37,7 +38,8 @@ p.bio{
 	color: #EEEEEE;
 	max-width: 500px;
 	display: block;
-	padding: 0px 0px 15px 10px;
+	padding: 0px 65px 15px 10px;
+	font-size: 11px;
 
 }
 
@@ -47,6 +49,7 @@ p.resume{
 	max-width: 500px;
 	display: block;
 	padding: 0px 0px 0px 10px;
+	font-size: 16px;
 
 }
 
@@ -54,13 +57,14 @@ p{
 	color: #EEEEEE;
 	display: block;
 	padding: 0px 0px 0px 10px;
+	font-size: 12px;
 }
 
 
 h3.category{
 
 	font-family: Impact, Charcoal, sans-serif;
-	font-size: 36px;
+	font-size: 18px;
 	color: #3e4948;
 	display: block;	
 	padding: 10px 100% 0px 10px;
@@ -69,90 +73,90 @@ h3.category{
 
 img.propic{
 position: fixed;
-top: 12px;
+top: 120px;
 left: 0px;
-max-width: 50px;
-max-height: 100px;
+max-width: 150px;
+max-height: 300px;
 }
+
 .rbutton {
 
 
 	display: block;	
 	max-width:80px;
-	margin: 20px 50px 10px 90px;
-
-		   border-top: 1px solid #96d1f8;
-		   background: #65d6d6;
-		   background: -webkit-gradient(linear, left top, left bottom, from(#3e9c7d), to(#65d6d6));
-		   background: -webkit-linear-gradient(top, #3e9c7d, #65d6d6);
-		   background: -moz-linear-gradient(top, #3e9c7d, #65d6d6);
-		   background: -ms-linear-gradient(top, #3e9c7d, #65d6d6);
-		   background: -o-linear-gradient(top, #3e9c7d, #65d6d6);
-		   padding: 12.5px 25px;
-		   -webkit-border-radius: 21px;
-		   -moz-border-radius: 21px;
-		   border-radius: 21px;
-		   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
-		   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
-		   box-shadow: rgba(0,0,0,1) 0 1px 0;
-		   text-shadow: rgba(0,0,0,.4) 0 1px 0;
-		   color: #182f42;
-		   font-size: 19px;
-		   font-family: Georgia, Serif;
-		   text-decoration: none;
-		   vertical-align: middle;
+	margin: 10px 0px 10px 80%;
+	border-top: 1px solid #96d1f8;
+	background: #65d6d6;
+	background: -webkit-gradient(linear, left top, left bottom, from(#3e9c7d), to(#65d6d6));
+	background: -webkit-linear-gradient(top, #3e9c7d, #65d6d6);
+	background: -moz-linear-gradient(top, #3e9c7d, #65d6d6);
+	background: -ms-linear-gradient(top, #3e9c7d, #65d6d6);
+	background: -o-linear-gradient(top, #3e9c7d, #65d6d6);
+	padding: 5px 10px;
+	-webkit-border-radius: 21px;
+	-moz-border-radius: 21px;
+	border-radius: 21px;
+	-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	box-shadow: rgba(0,0,0,1) 0 1px 0;
+	text-shadow: rgba(0,0,0,.4) 0 1px 0;
+	color: #182f42;
+	font-size: 10px;
+	font-family: Georgia, Serif;
+	text-decoration: none;
+	vertical-align: middle;
+}
+.rbutton:hover {
+   border-top-color: #52bab1;
+   background: #52bab1;
+   color: #1b4394;
    }
-			.rbutton:hover {
-			   border-top-color: #52bab1;
-			   background: #52bab1;
-			   color: #1b4394;
-			   }
-			.rbutton:active {
-			   border-top-color: #221b5c;
-			   background: #221b5c;
-			   }
+.rbutton:active {
+   border-top-color: #221b5c;
+   background: #221b5c;
+   }
 
 .bbutton {
 
 
 	display: block;	
-	max-width: 80px;
-	margin: 400px 50px 10px 90px;
-
-
-			   border-top: 1px solid #96d1f8;
-			   background: #65d6d6;
-			   background: -webkit-gradient(linear, left top, left bottom, from(#3e9c7d), to(#65d6d6));
-			   background: -webkit-linear-gradient(top, #3e9c7d, #65d6d6);
-			   background: -moz-linear-gradient(top, #3e9c7d, #65d6d6);
-			   background: -ms-linear-gradient(top, #3e9c7d, #65d6d6);
-			   background: -o-linear-gradient(top, #3e9c7d, #65d6d6);
-			   padding: 12.5px 25px;
-			   -webkit-border-radius: 21px;
-			   -moz-border-radius: 21px;
-			   border-radius: 21px;
-			   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
-			   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
-			   box-shadow: rgba(0,0,0,1) 0 1px 0;
-			   text-shadow: rgba(0,0,0,.4) 0 1px 0;
-			   color: #182f42;
-			   font-size: 19px;
-			   font-family: Georgia, Serif;
-			   text-decoration: none;
-			   vertical-align: middle;
+	max-width: 40px;
+	margin: 45px 0px 10px 80%;
+	border-top: 1px solid #96d1f8;
+	background: #65d6d6;
+	background: -webkit-gradient(linear, left top, left bottom, from(#3e9c7d), to(#65d6d6));
+	background: -webkit-linear-gradient(top, #3e9c7d, #65d6d6);
+	background: -moz-linear-gradient(top, #3e9c7d, #65d6d6);
+	background: -ms-linear-gradient(top, #3e9c7d, #65d6d6);
+	background: -o-linear-gradient(top, #3e9c7d, #65d6d6);
+	padding: 5px 10px;
+	-webkit-border-radius: 21px;
+	-moz-border-radius: 21px;
+	border-radius: 21px;
+	-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	box-shadow: rgba(0,0,0,1) 0 1px 0;
+	text-shadow: rgba(0,0,0,.4) 0 1px 0;
+	color: #182f42;
+	font-size: 10px;
+	font-family: Georgia, Serif;
+	text-decoration: none;
+	vertical-align: middle;
 }
-				.bbutton:hover {
-				   border-top-color: #52bab1;
-				   background: #52bab1;
-				   color: #1b4394;
-				   }
-				.bbutton:active {
-				   border-top-color: #221b5c;
-				   background: #221b5c;
-				   }
+
+.bbutton:hover {
+border-top-color: #52bab1;
+background: #52bab1;
+color: #1b4394;
+}
+.bbutton:active {
+border-top-color: #221b5c;
+background: #221b5c;
+}
 
 body{
-	background-size: 384px 240px;
+	background-size: 550px 325px;
+
 	background-image:url("Portfoliowallpaper.jpg");
 	background-repeat:repeat;
 }
