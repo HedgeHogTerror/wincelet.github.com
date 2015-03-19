@@ -312,6 +312,7 @@
 			
 			.image.centered
 			{
+				background: #2f333b url('images/overlay.png');
 				display: block;
 				margin: 0 0 2em 0;
 			}
@@ -408,6 +409,7 @@
 			input[type="button"].style3,
 			input[type="submit"].style3,
 			input[type="reset"].style3,
+			.image.style3,
 			.button.style3
 			{
 				background: #2f333b url('images/overlay.png');
